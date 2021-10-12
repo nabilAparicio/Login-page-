@@ -15,6 +15,7 @@ html {
 .structure {
   width: 20rem;
   height: 20rem;
+  bottom: 20rem;
   margin: auto;
   position: relative;
   top: 10rem;
@@ -23,8 +24,12 @@ html {
 .img-avatar {
   margin: auto;
   position: relative;
+  bottom: 30px;
 }
 #image-login {
+  position: relative;
+  margin: auto;
+  left: 40%;
   background-color: blue;
   width: 20%;
   height: 20%;
